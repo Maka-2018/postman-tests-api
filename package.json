@@ -6,7 +6,7 @@
     "test": "tests"
   },
   "scripts": {
-    "api-tests-production": "newman run --disable-unicode tests/ContactList.collection.json -e ContactList.environment.json"
+    "api-tests-production": "newman run --disable-unicode tests/ContactList.collection.json -e tests/ContactList.environment.json"
   },
   "author": "Mamoudou Camara",
   "license": "ISC",
