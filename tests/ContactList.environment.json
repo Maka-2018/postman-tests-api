@@ -1,0 +1,49 @@
+{
+	"id": "fea9fdcd-44e1-4290-9757-14b59e5b4784",
+	"name": "Contact List",
+	"values": [
+		{
+			"key": "firstName",
+			"value": "Carol",
+			"enabled": true
+		},
+		{
+			"key": "lastName",
+			"value": "Jones",
+			"enabled": true
+		},
+		{
+			"key": "contactId",
+			"value": "610e84bcf2967f0ec8933fd6",
+			"enabled": true
+		},
+		{
+			"key": "email",
+			"value": "cjones@thinkingtester.com",
+			"enabled": true
+		},
+		{
+			"key": "city",
+			"value": "Seattle, WA",
+			"enabled": true
+		},
+		{
+			"key": "country",
+			"value": "USA",
+			"enabled": true
+		},
+		{
+			"key": "jobTitle",
+			"value": "QA Engineer",
+			"enabled": true
+		},
+		{
+			"key": "company",
+			"value": "Apple",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2021-08-07T15:13:08.004Z",
+	"_postman_exported_using": "Postman/8.10.0"
+}

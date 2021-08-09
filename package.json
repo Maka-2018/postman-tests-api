@@ -1,0 +1,16 @@
+{
+  "name": "postman-tests-api",
+  "version": "1.0.0",
+  "description": "Project for storing Postman tests",
+    "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "api-tests-production": "newman run --disable-unicode tests/ContactList.collection.json -e ContactList.environment.json"
+  },
+  "author": "Mamoudou Camara",
+  "license": "ISC",
+  "dependencies": {
+    "newman": "^5.2.4"
+  }
+}
